@@ -19,7 +19,7 @@ This project is a complete UX and data pipeline solution for monitoring penguin 
   The local CSV-based database that stores historical penguin behavior records for visualization and analysis.
 
 - **ESP32 Code**  
-  Microcontroller code (not included here) sends behavioral/environmental data over HTTP or MQTT to `app.py`.
+  Microcontroller code in `Manual_ENcorporation.ino` sends behavioral/environmental data over HTTP  to `app.py`.
 
 ---
 
