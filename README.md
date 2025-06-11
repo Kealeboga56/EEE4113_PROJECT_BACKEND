@@ -7,7 +7,7 @@ This project is a complete UX and data pipeline solution for monitoring penguin 
 ## 📁 Project Structure
 
 - **`Penguin UX design.pbix`**  
-  Power BI file for visualizing penguin behavioral data, including metrics like movement, temperature, and interaction.
+  Power BI file for visualizing penguin behavioral data, including metrics like weight trend, current weight,average weight and deviation for the average weight.
 
 - **`Code.gs`**  
   Google script to update `penguin_db.csv` by processing incoming data or performing CRUD operations.
