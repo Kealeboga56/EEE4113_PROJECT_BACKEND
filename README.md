@@ -9,8 +9,12 @@ This project is a complete UX and data pipeline solution for monitoring penguin 
 - **`Penguin UX design.pbix`**  
   Power BI file for visualizing penguin behavioral data, including metrics like weight trend, current weight,average weight and deviation for the average weight.
 
+  this must be uploaded to the steakholders business microsoft account and must connect to a google sheet created them.
+
 - **`Code.gs`**  
   Google script to update `penguin_db.csv` by processing incoming data or performing CRUD operations.
+
+  this is what serves as the link to the google script as it accepts uploads from the app.py file
 
 - **`app.py`**  
   Python Flask (or other framework) application that runs a background server to receive live data from the ESP32 and log it appropriately.
