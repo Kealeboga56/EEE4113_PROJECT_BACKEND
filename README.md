@@ -27,5 +27,5 @@ This project is a complete UX and data pipeline solution for monitoring penguin 
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/penguin-ux-monitor.git
-cd penguin-ux-monitor
+git clone https://github.com/Kealeboga56/EEE4113_PROJECT_BACKEND.git
+cd EEE4113_PROJECT_BACKEND
