@@ -9,8 +9,8 @@ This project is a complete UX and data pipeline solution for monitoring penguin 
 - **`Penguin UX design.pbix`**  
   Power BI file for visualizing penguin behavioral data, including metrics like movement, temperature, and interaction.
 
-- **`Code.js`**  
-  JavaScript script to update `penguin_db.csv` by processing incoming data or performing CRUD operations.
+- **`Code.gs`**  
+  Google script to update `penguin_db.csv` by processing incoming data or performing CRUD operations.
 
 - **`app.py`**  
   Python Flask (or other framework) application that runs a background server to receive live data from the ESP32 and log it appropriately.
